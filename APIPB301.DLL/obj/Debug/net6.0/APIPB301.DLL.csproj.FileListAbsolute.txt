@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\APIPB301.DLL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\APIPB301.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\APIPB301.DLL.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\APIPB301.DLL.AssemblyInfo.cs
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\APIPB301.DLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\bin\Debug\net6.0\APIPB301.DLL.deps.json
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\bin\Debug\net6.0\APIPB301.DLL.runtimeconfig.json
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\bin\Debug\net6.0\APIPB301.DLL.dll
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\bin\Debug\net6.0\APIPB301.DLL.pdb
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\APIPB301.DLL.dll
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\refint\APIPB301.DLL.dll
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\APIPB301.DLL.pdb
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\APIPB301.DLL.genruntimeconfig.cache
+C:\Users\hp\Desktop\ASP.NET\APIPB301\APIPB301.DLL\obj\Debug\net6.0\ref\APIPB301.DLL.dll
